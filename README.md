@@ -18,8 +18,7 @@ Para ejecutar los ejemplos de este repositorio, asegúrate de tener [Node.js](ht
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/CJPD00/design-patterns-ts.git
-   cd design-patterns-ts
+   git clone https://github.com/CJPD00/patrones-ts.git
    ```
 
 2. **Instalar dependencias:**
@@ -197,7 +196,7 @@ laptop.setStock(10); // Product 'Laptop XPS' is now in stock!
 
 ## Cómo Contribuir
 
-¡Agradecemos tus contribuciones! Si deseas mejorar este repositorio, por favor sigue estos pasos:
+¡Agradezco tus contribuciones! Si deseas mejorar este repositorio, por favor sigue estos pasos:
 
 1.  Haz un "fork" de este repositorio.
 2.  Crea una nueva rama (`git checkout -b feature/tu-caracteristica`).
