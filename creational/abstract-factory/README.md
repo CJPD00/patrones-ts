@@ -11,5 +11,6 @@ Imagina que estás desarrollando una aplicación para una tienda de muebles. La 
 ## Cómo Ejecutar
 
 Desde la raíz del repositorio, ejecuta:
+
 ```bash
 npx ts-node creational/abstract-factory/index.ts
